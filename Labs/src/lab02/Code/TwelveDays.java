@@ -1,4 +1,4 @@
-package lab02;
+package lab02.Code;
 public class TwelveDays {
 
     public String singThatSong(){

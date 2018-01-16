@@ -1,4 +1,4 @@
-package lab03;
+package lab03.Code;
 
 public class Encryption {
 

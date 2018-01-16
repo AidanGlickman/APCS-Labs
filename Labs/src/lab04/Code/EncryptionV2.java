@@ -1,4 +1,4 @@
-package lab04;
+package lab04.Code;
 
 public class EncryptionV2 {
 

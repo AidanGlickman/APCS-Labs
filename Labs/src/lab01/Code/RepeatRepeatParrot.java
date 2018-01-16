@@ -1,4 +1,4 @@
-package lab01;
+package lab01.Code;
 import java.util.Scanner;
 
 public class RepeatRepeatParrot {

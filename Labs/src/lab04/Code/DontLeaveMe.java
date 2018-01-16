@@ -1,4 +1,4 @@
-package lab04;
+package lab04.Code;
 import java.util.Scanner;
 
 public class DontLeaveMe {

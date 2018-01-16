@@ -1,4 +1,4 @@
-package lab01;
+package lab01.Code;
 import java.io.*;
 import java.util.Scanner;
 public class Challenge {

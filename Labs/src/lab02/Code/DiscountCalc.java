@@ -1,4 +1,4 @@
-package lab02;
+package lab02.Code;
 public class DiscountCalc {
     public double calculateTheDiscount(int numOfItems, double cost){
         double disc = 0;
